@@ -58,7 +58,7 @@ export default {
       var time = +new Data(time)
       var subtime = time - nowtime
       var times = parseInt(subtime) / 1000
-      var h = parseInt((times / 60 / 60) % 24)
+      var h = parseInt(times / 60 / 60)
       h = h < 10 ? '0' + h : h
       var m = parseInt((times / 60) % 60)
       m = m < 10 ? '0' + m : m
