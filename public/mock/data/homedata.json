@@ -1,0 +1,286 @@
+{
+    "data": [{
+            "city": "北京",
+            "swiperList": [
+                { "id": "01", "imgUrl": "/api/img/swiper/lbt.jpg" },
+                { "id": "02", "imgUrl": "/api/img/swiper/lbt2.jpg" },
+                { "id": "03", "imgUrl": "/api/img/swiper/lbt3.jpg" },
+                { "id": "04", "imgUrl": "/api/img/swiper/lbt4.jpg" }
+            ],
+            "likeList": [{
+                    "id": "01",
+                    "imgUrl": "/api/img/like/1.jpg",
+                    "title": "白水洋",
+                    "comment": "4784",
+                    "price": "110",
+                    "location": "屏南县",
+                    "introduction": "白水洋很好玩！"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "/api/img/like/2.jpg",
+                    "title": "犀流漂流",
+                    "comment": "460",
+                    "price": "99",
+                    "location": "寿宁县"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "/api/img/like/3.jpg",
+                    "title": "杨家溪",
+                    "comment": "650",
+                    "price": "100",
+                    "location": "霞浦县"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "/api/img/like/4.jpg",
+                    "title": "九龙井景区",
+                    "comment": "140",
+                    "price": "45",
+                    "location": "柘荣县"
+                },
+                {
+                    "id": "05",
+                    "imgUrl": "/api/img/like/5.jpg",
+                    "title": "太姥山",
+                    "comment": "7880",
+                    "price": "119",
+                    "location": "福鼎县"
+                }
+            ],
+            "hotList": [{
+                    "id": "01",
+                    "imgUrl": "/api/img/hot/1.jpg",
+                    "title": "白水洋",
+                    "price": "110.0"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "/api/img/hot/2.jpg",
+                    "title": "灵犀漂流",
+                    "price": "129.0"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "/api/img/hot/3.jpg",
+                    "title": "太姥山",
+                    "price": "75.0"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "/api/img/hot/4.jpg",
+                    "title": "鸳鸯溪大峡谷",
+                    "price": "75.0"
+                },
+                {
+                    "id": "05",
+                    "imgUrl": "/api/img/hot/5.jpg",
+                    "title": "大屿山岛",
+                    "price": "70.0"
+                },
+                {
+                    "id": "06",
+                    "imgUrl": "/api/img/hot/6.jpg",
+                    "title": "牛郎岗海滨浴场",
+                    "price": "35.0"
+                },
+                {
+                    "id": "07",
+                    "imgUrl": "/api/img/hot/7.jpg",
+                    "title": "霞浦罗汉溪",
+                    "price": "45.0"
+                },
+                {
+                    "id": "08",
+                    "imgUrl": "/api/img/hot/8.jpg",
+                    "title": "柘荣鸳鸯草场",
+                    "price": "45.0"
+                },
+                {
+                    "id": "09",
+                    "imgUrl": "/api/img/hot/9.jpg",
+                    "title": "杨家溪",
+                    "price": "100.0"
+                }
+            ],
+            "iconsList": [{
+                    "id": "01",
+                    "imgUrl": "/api/img/icons/1.png",
+                    "title": "景点"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "/api/img/icons/2.png",
+                    "title": "景点"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "/api/img/icons/3.png",
+                    "title": "景点"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "/api/img/icons/4.png",
+                    "title": "景点"
+                }
+            ]
+
+        },
+        {
+            "city": "上海",
+            "swiperList": [
+                { "id": "01", "imgUrl": "/api/img/swiper/lbt.jpg" },
+                { "id": "02", "imgUrl": "/api/img/swiper/lbt2.jpg" },
+                { "id": "03", "imgUrl": "/api/img/swiper/lbt3.jpg" },
+                { "id": "04", "imgUrl": "/api/img/swiper/lbt4.jpg" }
+            ],
+            "likeList": [{
+                    "id": "01",
+                    "imgUrl": "/api/img/like/1.jpg",
+                    "title": "白水洋",
+                    "comment": "4784",
+                    "price": "110",
+                    "location": "屏南县",
+                    "introduction": "白水洋很好玩！"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "/api/img/like/2.jpg",
+                    "title": "犀流漂流",
+                    "comment": "460",
+                    "price": "99",
+                    "location": "寿宁县"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "/api/img/like/3.jpg",
+                    "title": "杨家溪",
+                    "comment": "650",
+                    "price": "100",
+                    "location": "霞浦县"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "/api/img/like/4.jpg",
+                    "title": "九龙井景区",
+                    "comment": "140",
+                    "price": "45",
+                    "location": "柘荣县"
+                },
+                {
+                    "id": "05",
+                    "imgUrl": "/api/img/like/5.jpg",
+                    "title": "太姥山",
+                    "comment": "7880",
+                    "price": "119",
+                    "location": "福鼎县"
+                }
+            ],
+            "hotList": [{
+                    "id": "01",
+                    "imgUrl": "/api/img/hot/1.jpg",
+                    "title": "白水洋",
+                    "price": "110.0"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "/api/img/hot/2.jpg",
+                    "title": "灵犀漂流",
+                    "price": "129.0"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "/api/img/hot/3.jpg",
+                    "title": "太姥山",
+                    "price": "75.0"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "/api/img/hot/4.jpg",
+                    "title": "鸳鸯溪大峡谷",
+                    "price": "75.0"
+                },
+                {
+                    "id": "05",
+                    "imgUrl": "/api/img/hot/5.jpg",
+                    "title": "大屿山岛",
+                    "price": "70.0"
+                },
+                {
+                    "id": "06",
+                    "imgUrl": "/api/img/hot/6.jpg",
+                    "title": "牛郎岗海滨浴场",
+                    "price": "35.0"
+                },
+                {
+                    "id": "07",
+                    "imgUrl": "/api/img/hot/7.jpg",
+                    "title": "霞浦罗汉溪",
+                    "price": "45.0"
+                },
+                {
+                    "id": "08",
+                    "imgUrl": "/api/img/hot/8.jpg",
+                    "title": "柘荣鸳鸯草场",
+                    "price": "45.0"
+                },
+                {
+                    "id": "09",
+                    "imgUrl": "/api/img/hot/9.jpg",
+                    "title": "杨家溪",
+                    "price": "100.0"
+                }
+            ],
+            "iconsList": [{
+                    "id": "01",
+                    "imgUrl": "/api/img/icons/1.png",
+                    "title": "景点"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "/api/img/icons/2.png",
+                    "title": "景点"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "/api/img/icons/3.png",
+                    "title": "迪士尼"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "/api/img/icons/4.png",
+                    "title": "景点"
+                },
+                {
+                    "id": "05",
+                    "imgUrl": "/api/img/icons/3.png",
+                    "title": "迪士尼"
+                },
+                {
+                    "id": "06",
+                    "imgUrl": "/api/img/icons/3.png",
+                    "title": "迪士尼"
+                },
+                {
+                    "id": "07",
+                    "imgUrl": "/api/img/icons/3.png",
+                    "title": "迪士尼"
+                },
+                {
+                    "id": "08",
+                    "imgUrl": "/api/img/icons/3.png",
+                    "title": "迪士尼"
+                },
+                {
+                    "id": "09",
+                    "imgUrl": "/api/img/icons/3.png",
+                    "title": "迪士尼"
+                }
+            ]
+        }
+
+    ]
+
+
+}

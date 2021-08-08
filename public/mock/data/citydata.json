@@ -1,0 +1,113 @@
+{
+    "data": {
+        "hotcities": [{
+                "id": "01",
+                "name": "北京"
+            },
+            {
+                "id": "02",
+                "name": "上海"
+            },
+            {
+                "id": "03",
+                "name": "三亚"
+            },
+            {
+                "id": "04",
+                "name": "深圳"
+            },
+            {
+                "id": "05",
+                "name": "西安"
+            },
+            {
+                "id": "06",
+                "name": "..."
+            }
+        ],
+        "city": {
+            "A": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "B": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "C": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "D": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "E": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "F": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "G": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "H": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "I": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "J": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "K": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "L": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "M": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "N": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "O": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "P": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "Q": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "R": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "S": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "T": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "U": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "V": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "W": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "X": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "Y": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ],
+            "Z": [{ "id": "01", "name": "aaa" },
+                { "id": "02", "name": "aaaa" }
+            ]
+        }
+
+
+
+
+    }
+}
